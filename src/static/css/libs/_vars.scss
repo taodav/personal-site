@@ -22,19 +22,21 @@
 	$font: (
 		family:						('Source Sans Pro', Helvetica, sans-serif),
 		family-fixed:				('Courier New', monospace),
+		family-title:				('RED', Helvetica, sans-serif),
 		family-heading:				('Raleway', Helvetica, sans-serif),
 		weight:						400,
 		weight-bold:				700,
 		weight-heading:				400,
 		weight-heading-bold:		800,
 		weight-heading-extrabold:	900,
-		kerning-heading:			0.25em
+		color-heading:				rgb(168, 40, 64),
+		kerning-heading:			0.2em
 	);
 
 // Palette.
 	$palette: (
-		bg:							#ffffff,
-		bg-alt:						#f4f4f4,
+		bg:							#eceadd,
+		bg-alt:						#eceadd,
 		fg:							#646464,
 		fg-bold:					#3c3b3b,
 		fg-light:					#aaaaaa,

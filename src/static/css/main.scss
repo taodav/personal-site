@@ -66,3 +66,11 @@
 	@import 'pages/resume';
 	@import 'pages/skills';
 	@import 'pages/stats';
+
+@font-face {
+  font-family: 'RED';
+  src: local('RED'), url(./fonts/tungsten-semibold_bigfontsite.com.otf) format('opentype');
+	//src: local('RED'), url(./fonts/Tungsten-Semibold.eot) format('embedded-opentype');
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}

@@ -13,7 +13,7 @@ import Contact from '../pages/Contact';
 import Index from '../pages/Index';
 import NotFound from '../pages/NotFound';
 import Projects from '../pages/Projects';
-import Resume from '../pages/Resume';
+import Birthday from '../pages/Birthday';
 import Stats from '../pages/Stats';
 
 const pages = [
@@ -44,8 +44,8 @@ const pages = [
   },
   {
     route: '/resume',
-    heading: 'Resume',
-    component: Resume,
+    heading: 'Birthday',
+    component: Birthday,
   },
 ];
 

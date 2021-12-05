@@ -196,6 +196,10 @@
 
 	#header .index-link {
 		z-index: 3;
+		font-family: _font(family-title);
+		font-size: 1.8em;
+		letter-spacing: 0.15em;
+		color: rgb(168, 40, 64);
 	}
 
 	#header .main .menu {
