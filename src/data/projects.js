@@ -3,13 +3,13 @@ const data = [
   {
     title: 'Traphisass.com',
     subtitle: 'Leveraging targeted ads to trap his ass',
-    image: '/images/projects/nearestdollar.jpg',
+    image: '/images/projects/trap.jpg',
     date: '2019',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Be the hint he needs to finally make the commitment '
+      + 'Trap his ass with our AI powered marketing solution! '
+      + 'We\'ll send targeted ads his way to wake his ass up and '
+      + 'get a ring on you!',
   },
 ];
 
