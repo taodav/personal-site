@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Main from '../layouts/Main';
+import Post from '../components/Blog/Post';
 
 const Blog = () => (
   <Main
@@ -16,9 +17,7 @@ const Blog = () => (
           </p>
         </div>
       </header>
-      <p>
-        RUOSHAN&apos;S BLOG STUFF HERE
-      </p>
+      <Post />
     </article>
   </Main>
 );
