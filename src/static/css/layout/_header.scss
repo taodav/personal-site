@@ -215,6 +215,11 @@
 		border: 0;
 	}
 
+.nav-title:hover {
+	text-decoration: none;
+	color: rgb(168, 40, 64)
+}
+
 .open-menu{
 	position: fixed;
 	right: 0;
