@@ -23,6 +23,13 @@ const Birthday = () => {
             in my life.
           </p>
           <p className="before-pic">
+            Holy shit you&apos;re 30!
+          </p>
+          <img className="birthday-birthday2" src={`${PUBLIC_URL}/images/birthday/birthday2.jpg`} alt="" />
+          <p>
+            Here&apos;s to hoping you have as much fun today as you did on your second birthday!
+          </p>
+          <p className="before-pic">
             Even though we haven&apos;t always seen eye to eye
           </p>
           <img className="birthday-fight" src={`${PUBLIC_URL}/images/birthday/fight.jpg`} alt="" />
@@ -33,10 +40,11 @@ const Birthday = () => {
           <div className="side-by-side-container">
             <div className="side-by-side-text">
               <p>
-                While we won&apos;t be physically together to celebrate your birthday yet
+                While we won&apos;t be physically together to celebrate your birthday just yet,
               </p>
               <p>
-                Distance won&apos;t stop us from having fun!!
+                I promise that we&apos;ll all do something together
+                when the world looks just a little more normal!
               </p>
             </div>
 
