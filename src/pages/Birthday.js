@@ -27,7 +27,8 @@ const Birthday = () => {
           </p>
           <img className="birthday-birthday2" src={`${PUBLIC_URL}/images/birthday/birthday2.jpg`} alt="" />
           <p>
-            Here&apos;s to hoping you have as much fun today as you did on your second birthday!
+            Here&apos;s to hoping you have as much fun today as you did on your second birthday
+            (even though this is your fifth)!
           </p>
           <p className="before-pic">
             Even though we haven&apos;t always seen eye to eye
