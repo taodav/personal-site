@@ -24,7 +24,7 @@ const Hamburger = () => {
         </ul>
       </nav>
       <Suspense fallback={<></>}>
-        <Menu right isOpen={open}>
+        <Menu right disableAutoFocus isOpen={open} className="hamburger-wrapper">
           <ul className="hamburger-ul">
             {routes.map((l) => (
               <li key={l.label}>
